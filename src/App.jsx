@@ -7,7 +7,7 @@ function App() {
             emailAddress: "", 
             password: "", 
             confirmPassword: "", 
-            iWant: false
+            iWant: true
         }
     )
     function handleChange(event) {
